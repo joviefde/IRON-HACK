@@ -1,0 +1,13 @@
+TEST SOLUTIONS
+
+1. 	Class
+2. 	ValueError: 'eraser' is not in list
+3. 	TRUE
+4. 	FALSE
+5. 	All of above
+6. 	List are mutable
+7. 	Alter
+8. 	FALSE
+9. 	hello hi Hey
+10.	While Loop
+11.	Boolean
